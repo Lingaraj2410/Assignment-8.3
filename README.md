@@ -8,4 +8,4 @@ Note: Hive 0.14 should be installed to implement the hive transaction property.
 
 # Solution:
 
-The PDF document posted in this repository explains the concept, Transactions in Hive with custom example presented with screenshots of output.
+The PDF document posted in this repository explains the concept, Transactions in Hive taking custom example along with screenshots of output.
